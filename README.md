@@ -24,7 +24,7 @@ Which intervention provides more effective performance support — Coffee or Pow
 - Coffee provides a more stable and slightly longer sustained alertness effect.
 - Productivity outcomes are significantly influenced by sleep duration.
 
-## Detailed insights available in insights.md
+### Detailed insights available in insights.md
 
 ## Tools & Technologies
 
@@ -33,7 +33,7 @@ Which intervention provides more effective performance support — Coffee or Pow
 - Data Modeling
 - Data Visualization
 
- ##Dashboard Preview
+ ## Dashboard Preview
 
 <img width="580" height="294" alt="screenshot" src="https://github.com/user-attachments/assets/06ad6322-bce8-48af-a336-f84cd43ed206" />
 
